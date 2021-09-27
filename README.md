@@ -10,6 +10,8 @@ https://challenge-gallery.netlify.app
 ### Using Create-react-app
 #### css with semantic-ui
 
+<br/>
+
 #### Install the following commands:
 
 ### npm install react-router-dom
