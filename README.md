@@ -8,8 +8,9 @@ https://challenge-gallery.netlify.app
 
 
 ### Using Create-react-app
-### css with semantic-ui
-### Install the following commands:
+#### css with semantic-ui
+
+#### Install the following commands:
 
 ### npm install react-router-dom
 ### npm install --save redux
